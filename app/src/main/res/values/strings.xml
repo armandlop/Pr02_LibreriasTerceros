@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pr02_LibreriasTerceros</string>
+    <string name="st_textview">L O G I N</string>
+    <string name="st_et_usuario">Usuario</string>
+    <string name="st_et_pwd">Password</string>
+    <string name="st_btn">Login</string>
+    <string name="st_btn_reg">Registrar</string>
+</resources>
